@@ -1,6 +1,5 @@
 ## Descrição do Projeto
 
-Escreva aqui um breve resumo sobre o objetivo do código. 
 Este projeto foi desenvolvido no Google Colab com o objetivo de analisar dados de [X] e construir um modelo preditivo capaz de determinar [Y]. O dataset utilizado contém informações sobre [Z].
 
 ## Etapas do Desenvolvimento
