@@ -1,6 +1,6 @@
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido no Google Colab com o objetivo de analisar dados de [X] e construir um modelo preditivo capaz de determinar [Y]. O dataset utilizado contém informações sobre [Z].
+Este projeto foi desenvolvido no Google Colab com o objetivo de analisar dados e construir um modelo preditivo capaz de determinar os pontos descritos no código deste projeto. O dataset utilizado contém informações sobre [Z].
 
 ## Etapas do Desenvolvimento
 
