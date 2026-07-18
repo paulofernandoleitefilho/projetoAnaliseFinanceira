@@ -1,0 +1,21 @@
+id;data;cliente_id;tipo;valor;descricao;categoria
+1;05/01/2026;CLI001;credito;3500.00;Salário janeiro;salario
+2;12/01/2026;CLI002;debito;180.50;Supermercado;compra
+3;20/01/2026;CLI001;debito;850.00;Farmácia;saude
+4;03/02/2026;CLI004;debito;200.00;Transferência entre contas;transferencia
+5;14/02/2026;CLI003;credito;15000.00;Transferência empresarial;transferencia
+6;18/02/2026;CLI002;debito;320.00;Conta de luz;conta
+7;01/03/2026;CLI001;credito;3500.00;Salário março;salario
+8;10/03/2026;CLI003;debito;99.90;Streaming;assinatura
+9;15/03/2026;CLI005;debito;450.00;Combustível;transporte
+10;22/03/2026;CLI002;credito;12000.00;Venda de veículo;venda
+11;02/04/2026;CLI004;debito;780.00;Aluguel;moradia
+12;08/04/2026;CLI001;debito;230.00;Internet;conta
+13;18/04/2026;CLI005;credito;4200.00;Freelance;servico
+14;05/05/2026;CLI003;debito;150.00;Academia;saude
+15;20/05/2026;CLI004;debito;60.00;Transporte público;transporte
+16;25/05/2026;CLI001;debito;abc;Erro de sistema;compra
+17;01/06/2026;;debito;200.00;Sem cliente;transferencia
+18;2026-13-10;CLI002;credito;1000.00;Data inválida;salario
+19;15/06/2026;CLI003;saque;500.00;Tipo inválido;outros
+20;20/06/2026;CLI999;debito;-50.00;Valor negativo;compra
